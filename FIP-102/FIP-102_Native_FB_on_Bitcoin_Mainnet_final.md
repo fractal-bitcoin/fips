@@ -1,11 +1,15 @@
-
-# FIP\-102: Native FB on Bitcoin Mainnet
+# FIP\-102: Native FB on Bitcoin Mainnet\_final
 
 **Version:** 0\.20
+
 **Title:** Native FB on Bitcoin Mainnet
+
 **Author:** Fractal Team
-**Status:** Complete
+
+**Status:** Final
+
 **Type**: Consensus \(Hard Fork\)
+
 **Created:** 2026\-08\-18
 
 ---
@@ -161,9 +165,9 @@ Within the 6\.25 FB Fractal block reward, the 1:1:1 block sequence remains uncha
 
 Expressed as an average across all Fractal blocks, each mechanism accounts for approximately 2\.0833 FB per block, or one third of the 6\.25 FB Fractal\-side emission rate\. This average should not be confused with the reward paid on an eligible block, which is 6\.25 FB\.
 
-![Image](https://internal-api-drive-stream-sg.larksuite.com/space/api/box/stream/download/authcode/?code=MjJhYTBhYmQxNmFlODU4MDA1ZTNhMDVkNTRjYmE1ZDJfMzRkZDAwOTA2NDllNmExYjZlNWRjNWVkZDRlZGVkMTNfSUQ6NzY3NTI5NzY0Njk0ODM4ODU4NV8xNzg3MDU0ODQ1OjE3ODcxNDEyNDVfVjM)
 
-![Image](https://internal-api-drive-stream-sg.larksuite.com/space/api/box/stream/download/authcode/?code=ZGYzYWIzNzZjOGE1ZTU5YWM5NzQ5YTAxOTk1NzQ3MmNfY2JhYzMzZjlmZDAwZjVjZjI2MWRmY2Q2NzkzODI2ZTBfSUQ6NzY3NTI5NzY0NTYzMTQ3NTQzM18xNzg3MDU0ODQ1OjE3ODcxNDEyNDVfVjM)
+
+![FIP-102 target FB emission allocation](./fip-102-pie-allocation-dark.png)
 
 ### 4\.5 Future Halving Schedule
 
@@ -366,3 +370,4 @@ Conversion between FB on Fractal and FB on Bitcoin mainnet does not increase com
 Unless amended by a later FIP, future halving milestones apply proportionally to the full target budgets for both distribution paths, preserving the 50/50 target allocation after the progressive Bitcoin\-mainnet rollout\.
 
 Fractal Team
+
