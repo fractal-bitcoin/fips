@@ -1,4 +1,3 @@
-# FIP\-102\_Native\_FB\_on\_Bitcoin\_Mainnet\_v0\.11
 
 # FIP\-102: Native FB on Bitcoin Mainnet
 
