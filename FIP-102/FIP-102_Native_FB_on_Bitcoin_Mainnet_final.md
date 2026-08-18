@@ -4,7 +4,7 @@
 **Version:** 0\.20
 **Title:** Native FB on Bitcoin Mainnet
 **Author:** Fractal Team
-**Status:** Final
+**Status:** Complete
 **Type**: Consensus \(Hard Fork\)
 **Created:** 2026\-08\-18
 
@@ -366,4 +366,3 @@ Conversion between FB on Fractal and FB on Bitcoin mainnet does not increase com
 Unless amended by a later FIP, future halving milestones apply proportionally to the full target budgets for both distribution paths, preserving the 50/50 target allocation after the progressive Bitcoin\-mainnet rollout\.
 
 Fractal Team
-
